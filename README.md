@@ -7,9 +7,9 @@
 
 Уязвимости которые были обнаружены:
 
-https://www.exploit-db.com/exploits/17491\
-https://www.exploit-db.com/exploits/30020\
-https://www.exploit-db.com/exploits/6122\
+https://www.exploit-db.com/exploits/17491/
+https://www.exploit-db.com/exploits/30020/
+https://www.exploit-db.com/exploits/6122/
 
 
 
